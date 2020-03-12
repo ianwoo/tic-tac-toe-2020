@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Tic Tac Toe React Hooks 2020
+
+This is a dead simple implementation of Tic Tac Toe using React Hooks.
+
 ## Available Scripts
 
 In the project directory, you can run:
